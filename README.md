@@ -1,6 +1,14 @@
 # worldtime
 
-A new Flutter application.
+A basic Flutter application, to check time at any location.
+
+## Images
+
+<p align="center">
+  <img width="250" height="460" src="https://github.com/Samuel310/world_time/blob/master/demo_images/1.jpg">
+  <img width="250" height="460" src="https://github.com/Samuel310/world_time/blob/master/demo_images/2.jpg">
+  <img width="250" height="460" src="https://github.com/Samuel310/world_time/blob/master/demo_images/3.jpg">
+</p>
 
 ## Getting Started
 
